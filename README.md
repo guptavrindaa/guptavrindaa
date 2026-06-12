@@ -65,7 +65,6 @@ Technical PM with nearly 8 years across Business Analysis and Product Management
 
 | Repo | Description |
 |---|---|
-| [`product-portfolio`](https://github.com/guptavrindaa/product-portfolio) | Full product portfolio — case studies, project breakdowns, and visual mockups |
 | [`ai-data-monitoring-framework`](https://github.com/guptavrindaa/ai-data-monitoring-framework) | Architecture & product vision for an AI-powered AU FinTech data monitoring system |
 | [`afsl-dashboard-casestudy`](https://github.com/guptavrindaa/afsl-dashboard-casestudy) | Sunset → rebuild → GTM case study for an Apache Superset-based AFSL reporting platform |
 
