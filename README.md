@@ -80,4 +80,4 @@ Technical PM with nearly 8 years across Business Analysis and Product Management
 
 ---
 
-*Open to Product Manager / Senior PM / Lead PM roles at FinTech MNCs.*
+*Open to Product Manager / Senior PM roles at FinTech MNCs.*
